@@ -20,6 +20,7 @@
     width: 80rem;
 }
 .hours{
+    border-radius: 40px;
     display: flow-root;
     justify-content :center ;
     width: 20vw;
@@ -28,12 +29,14 @@
 
 }
 .minutes{
+    border-radius: 40px;
     width: 20vw;
     height: 35vh;
     background-color: rgba(44,155,244,255);
 
 }
 .seconds{
+    border-radius: 40px;
     width: 20vw;
     height: 35vh;
     background-color: rgba(252,1,104,255);
